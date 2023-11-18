@@ -1,4 +1,3 @@
-Website Phishing Detection Using Data Mining
 Project Overview:
 
 This project focuses on developing a Data Mining methodology to detect website phishing, a prevalent form of cyber-crime. Utilizing a range of data mining techniques, the project aims to identify phishing websites, which are often disguised as legitimate sites to steal sensitive information.
